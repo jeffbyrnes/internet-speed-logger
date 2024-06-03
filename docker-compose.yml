@@ -1,5 +1,4 @@
 ---
-version: "3"
 services:
   ui:
     image: ghcr.io/jeffbyrnes/internet-speed-logger:latest
